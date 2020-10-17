@@ -5,6 +5,6 @@ FTO is a clothing company selling women apparels on a daily basis. It is observe
 2. The probability that a maximum of 5 customers will return the items.
 3. The probability that more than 5 customers will return the items.
 ### Answer:
-1.
-2.
-3.
+1. 0.032
+2. 0.989
+3. 0.011
